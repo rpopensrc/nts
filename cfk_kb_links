@@ -1,0 +1,15 @@
+https://docs.confluent.io/platform/7.0.0/security/rbac/mds-api.html
+https://github.com/confluentinc/confluent-kubernetes-examples/tree/master/security/userprovided-tls_mtls_confluent-rbac
+https://github.com/confluentinc/confluent-kubernetes-examples/tree/master/security/userprovided-tls_mtls_confluent-rbac
+https://github.com/confluentinc/confluent-kubernetes-examples/blob/master/README.md#prerequisites
+https://github.com/confluentinc/confluent-kubernetes-examples/blob/master/general/cp-version/confluent-platform-7.0.1.yaml
+https://docs.confluent.io/operator/current/co-manage-rbac.html
+https://docs.confluent.io/platform/7.0.0/schema-registry/security/rbac-schema-registry.html#configuring-role-based-access-control-for-sr
+https://docs.confluent.io/operator/2.2.0/co-upgrade-overview.html
+https://docs.confluent.io/operator/2.2.0/release-notes.html
+https://docs.confluent.io/platform/7.1.0/installation/versions-interoperability.html#c3
+https://docs.confluent.io/kafka-connectors/teradata/current/index.html
+https://github.com/confluentinc/examples/tree/7.0.0-post/security/rbac/scripts
+https://github.com/confluentinc/examples/blob/7.0.0-post/security/rbac/scripts/enable-rbac-ksqldb-server.sh
+https://github.com/confluentinc/examples/blob/7.0.0-post/security/rbac/scripts/enable-rbac-schema-registry.sh
+https://github.com/confluentinc/examples/blob/7.3.x/security/rbac/scripts/enable-rbac-ksqldb-server.sh
